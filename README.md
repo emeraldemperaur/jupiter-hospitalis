@@ -122,11 +122,12 @@ fetch('http:localhost:2401/notifications-health');
 
 ### 📞 Communication & APIs
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Square API](https://img.shields.io/badge/Square_API-3E4348?style=for-the-badge&logo=square&logoColor=white)
+![Ada AI Agent](https://img.shields.io/badge/Ada_AI-FF6F61?style=for-the-badge&logoColor=white)
 
 ### 💳 Payments & Cloud Services
 ![Flutterwave](https://img.shields.io/badge/Flutterwave-F5A623?style=for-the-badge&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Square API](https://img.shields.io/badge/Square_API-3E4348?style=for-the-badge&logo=square&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## References
